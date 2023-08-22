@@ -1,2 +1,2 @@
 django-serve:
-	echo foo
+	./stock.sh
