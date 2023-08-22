@@ -1,0 +1,2 @@
+django-serve:
+	echo foo
