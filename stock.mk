@@ -1,2 +1,2 @@
 django-serve:
-	./stock.sh
+	@./stock.sh
